@@ -13,11 +13,9 @@ Archives téléchargées à la demande par PatonixOS (Réglages › Langues). Ch
 |---|---|---|
 | tts-en-ljspeech | en_US ljspeech (medium) | domaine public — LJ Speech (Keith Ito) |
 | tts-en-john | en_US john (medium) | domaine public — LibriVox |
-| tts-es-claude | es_MX claude (high) | Apache-2.0 — voir HirCoir/Piper-TTS-Spanish |
 | tts-es-carlfm | es_ES carlfm (x_low) | domaine public — carlfm01/my-speech-datasets |
 | tts-de-kerstin | de_DE kerstin (low) | CC0 — rhasspy/dataset-voice-kerstin |
 | tts-de-thorsten | de_DE thorsten (low) | CC0 — Thorsten-Voice (Thorsten Müller) |
-| tts-it-riccardo | it_IT riccardo (x_low) | M-AILABS Speech Dataset (libre, attribution à M-AILABS) — https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/ |
 | tts-pt-edresson | pt_BR edresson (low) | **CC BY 4.0** — Edresson Casanova, TTS-Portuguese-Corpus (https://github.com/Edresson/TTS-Portuguese-Corpus) |
 
 Les fichiers `.onnx` et `.onnx.json` sont ceux de rhasspy/piper-voices, **non modifiés** (seulement regroupés en archive `.tar`).
